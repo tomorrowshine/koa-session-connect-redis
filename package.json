@@ -1,6 +1,6 @@
 {
   "name": "koa-session-connect-redis",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "- 将 koa session 连接到 redis",
   "main": "index.js",
   "scripts": {
